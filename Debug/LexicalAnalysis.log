@@ -1,0 +1,21 @@
+﻿  CreateList.cpp
+  File.cpp
+  FiniteStateMachine.cpp
+  InterferenceGraph.cpp
+C:\Fax\Projekti\SPPURV\NikolaAleksićRA024\InterferenceGraph.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+C:\Fax\Projekti\SPPURV\NikolaAleksićRA024\InterferenceGraph.cpp(46,21): warning C4018: '<': signed/unsigned mismatch
+  LexicalAnalysis.cpp
+  LifeAnalysis.cpp
+  main.cpp
+  Print.cpp
+  ResourceAllocation.cpp
+C:\Fax\Projekti\SPPURV\NikolaAleksićRA024\ResourceAllocation.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+C:\Fax\Projekti\SPPURV\NikolaAleksićRA024\ResourceAllocation.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+C:\Fax\Projekti\SPPURV\NikolaAleksićRA024\ResourceAllocation.cpp(114,21): warning C4018: '<': signed/unsigned mismatch
+C:\Fax\Projekti\SPPURV\NikolaAleksićRA024\ResourceAllocation.cpp(126,21): warning C4018: '<': signed/unsigned mismatch
+C:\Fax\Projekti\SPPURV\NikolaAleksićRA024\ResourceAllocation.cpp(140,21): warning C4018: '<': signed/unsigned mismatch
+C:\Fax\Projekti\SPPURV\NikolaAleksićRA024\ResourceAllocation.cpp(154,21): warning C4018: '<': signed/unsigned mismatch
+  SyntaxAnalysis.cpp
+  Token.cpp
+  Generating Code...
+  LexicalAnalysis.vcxproj -> C:\Fax\Projekti\SPPURV\NikolaAleksićRA024\Debug\LexicalAnalysis.exe
